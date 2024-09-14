@@ -92,3 +92,6 @@ Pengguna dapat memilih lokasi awal dan tujuan melalui dropdown yang interaktif. 
 6. Hasil Jalur Terpendek: Klik tombol Cari Jalur Terpendek untuk melihat hasil rute terbaik beserta visualisasi graf yang menampilkan jalur.
 
 
+Oleh:
+Widya Amelia Putri
+24/547828/PPA/06910
